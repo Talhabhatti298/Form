@@ -1,0 +1,62 @@
+h1{
+    text-align: center;
+    color: brown;
+    margin-top: 10%;
+    margin-bottom: 10%;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 50px;
+    background-color: coral;
+    margin-left: 40%;
+    margin-right: 40%;
+    padding: 20px;
+    border-radius: 15px;
+    border-radius: 7px 7px 4px grey;
+
+
+}
+form{ 
+    text-align: center;
+    margin-left: 20%;
+    margin-right: 20%;
+padding-left: 10%;
+padding-right: 10%;
+padding-top: 1%;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 20px;
+    color: rgb(219, 133, 21);
+    
+}
+button{
+    color: blue;
+}
+
+.box1{
+    float: left;
+    background-color: aqua;
+    weight: 80px;
+    height: 100px;
+}
+.box2{
+    float: right;
+    background-color: rgb(25, 163, 37);
+    weight: 80px;
+    height: 100px;
+}
+.box3{
+    clear: left;
+    background-color: rgb(139, 119, 62);
+    weight: 80px;
+    height: 100px;
+}
+.navbar{
+    background-color: blueviolet;
+    height: 100;
+    width: 60;
+    /* position: sticky;
+    top: 0; */
+    text-align: center;
+    position: absolute;
+    margin-left: 20px;
+    margin-top: 20px;
+    z-index: -1;
+}
